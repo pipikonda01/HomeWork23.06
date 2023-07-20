@@ -1,0 +1,15 @@
+D:\Учёба\ДЗ\Lesson9\Task 2\obj\Debug\net7.0\Task 2.csproj.AssemblyReference.cache
+D:\Учёба\ДЗ\Lesson9\Task 2\obj\Debug\net7.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\ДЗ\Lesson9\Task 2\obj\Debug\net7.0\Task 2.AssemblyInfoInputs.cache
+D:\Учёба\ДЗ\Lesson9\Task 2\obj\Debug\net7.0\Task 2.AssemblyInfo.cs
+D:\Учёба\ДЗ\Lesson9\Task 2\obj\Debug\net7.0\Task 2.csproj.CoreCompileInputs.cache
+D:\Учёба\ДЗ\Lesson9\Task 2\bin\Debug\net7.0\Task 2.exe
+D:\Учёба\ДЗ\Lesson9\Task 2\bin\Debug\net7.0\Task 2.deps.json
+D:\Учёба\ДЗ\Lesson9\Task 2\bin\Debug\net7.0\Task 2.runtimeconfig.json
+D:\Учёба\ДЗ\Lesson9\Task 2\bin\Debug\net7.0\Task 2.dll
+D:\Учёба\ДЗ\Lesson9\Task 2\bin\Debug\net7.0\Task 2.pdb
+D:\Учёба\ДЗ\Lesson9\Task 2\obj\Debug\net7.0\Task 2.dll
+D:\Учёба\ДЗ\Lesson9\Task 2\obj\Debug\net7.0\refint\Task 2.dll
+D:\Учёба\ДЗ\Lesson9\Task 2\obj\Debug\net7.0\Task 2.pdb
+D:\Учёба\ДЗ\Lesson9\Task 2\obj\Debug\net7.0\Task 2.genruntimeconfig.cache
+D:\Учёба\ДЗ\Lesson9\Task 2\obj\Debug\net7.0\ref\Task 2.dll
